@@ -93,18 +93,6 @@ The goal is simple:
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/assertiq-backend/assertiq-backend/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
-
-</div>
-
-> If the snake does not appear yet, add the included `.github/workflows/generate-snake.yml` file to this profile repository and wait for the workflow to run.
-
----
-
 ## 📊 GitHub Activity
 
 <div align="center">
