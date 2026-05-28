@@ -10,7 +10,7 @@ Backend Python Developer working on **AssertIQ** — an AI-powered QA automation
 
 ## 🧠 About Me
 
-I work on backend systems that connect the AI pipeline with real runtime execution.
+I am a [PCAP Certified Associate Python Developer](https://pythoninstitute.org/pcap) working on backend systems that connect the AI pipeline with real runtime execution.
 
 My focus is building reliable APIs, runtime services, validation logic, and backend infrastructure that help AssertIQ inspect real applications, generate test automation code, validate it, repair failures, and save trusted results for reuse.
 
