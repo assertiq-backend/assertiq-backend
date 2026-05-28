@@ -1,7 +1,5 @@
 <div align="center">
 
-# Hi, I'm Ognjen 👋
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&width=720&lines=Python+Backend+Developer;FastAPI+%E2%80%A2+Runtime+Services+%E2%80%A2+Automation;Building+backend+systems+for+AssertIQ" alt="Typing SVG" />
 
 Backend Python Developer working on **AssertIQ** — an AI-powered QA automation platform.
@@ -97,7 +95,6 @@ The goal is simple:
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=assertiq-backend&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
 <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=assertiq-backend&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
